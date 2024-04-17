@@ -65,7 +65,7 @@ export default function Intro() {
         <span className="font-bold">3 years</span> of experience. I enjoy
         building <span className="italic">website & apps</span>. I am
         experienced
-        <span className="underline"> MERN/MEAN Stack Developer</span>.
+        <span className="font-bold"> MERN/MEAN Stack Developer</span>.
       </motion.h1>
 
       <motion.div
