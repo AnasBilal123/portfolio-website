@@ -112,7 +112,7 @@ export default function Intro() {
         outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer
         border border-b-gray-800/10 dark:border-none dark:bg-white/10 dark:text-white/90 dark:shadow-2xl
         "
-          href="https://github.com/AnasBilal10/"
+          href="https://github.com/AnasBilal123/"
           target="_blank"
         >
           <FaGitSquare className="hover:text-black dark:hover:text-gray-200 opacity-80 group-hover:scale-110 transition" />
