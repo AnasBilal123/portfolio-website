@@ -4,6 +4,7 @@ import Header from "@/components/header";
 import "./globals.css";
 import ActiveSectionContextProvider from "@/context-api/active-section-context";
 import { Toaster } from "react-hot-toast";
+import favicon from "./favicon.ico";
 import Footer from "@/components/footer";
 import ThemeSwitch from "@/components/buttons/theme-switch";
 import ThemeSwitchContext from "@/context-api/theme-switch-context";
@@ -23,6 +24,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="!scroll-smooth">
+      <head>
+        <link rel="icon" href="/app/favicon-profile" />
+      </head>
+
       <body
         className={`${inter.className} bg-gray-50 text-gray-950 dark:bg-[#23111e] dark:text-gray-50 relative pt-28 sm:pt-10`}
       >

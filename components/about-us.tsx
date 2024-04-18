@@ -17,31 +17,18 @@ function AboutUs() {
     >
       <SectionHeader>About Me</SectionHeader>
       <p className="mb-3">
-        {/* After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer. */}
-        <span className="font-medium bold">JavaScript/TypeScript </span>{" "}
-        developer with 3 years of experience working on scalable B2B and B2C
-        monolithic and event-driven applications
+        <span className="font-medium bold">JavaScript/TypeScript</span>{" "}
+        developer with 3 years of experience specializing in scalable B2B and
+        B2C applications, encompassing both monolithic and event-driven
+        architectures.
       </p>
 
       <p>
-        I have experience in understanding client visual design intent. The main
-        motive is to create and maintain better reusable code bases. Motivated
-        to build software with leading technologies like JavaScript and
-        TypeScript on a larger scale with the best performance experience
+        I possess a keen understanding of client visual design intent and excel
+        in creating and maintaining reusable code bases. Motivated by a passion
+        for leveraging leading-edge technologies, I am dedicated to crafting
+        software solutions with optimal performance using JavaScript and
+        TypeScript on a large scale.
       </p>
     </motion.div>
   );
