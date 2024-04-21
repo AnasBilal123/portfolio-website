@@ -70,7 +70,7 @@ export default function Intro() {
         <span className="font-bold"> Software Engineer </span> with three years
         of professional experience. My expertise lies in developing web
         applications particularly in the{" "}
-        <span className="font-bold"> MERN/MEAN stack </span>, bringing a
+        <span className="font-bold"> MERN/MEAN stack</span>, bringing a
         comprehensive skill set to every project I undertake.
       </motion.h1>
 
