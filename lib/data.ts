@@ -37,31 +37,28 @@ export const links = [
 
 export const experiencesData = [
     {
-        title: "Associate Software Engineer - Rolustech",
-        location: "Lahore, Pakistan",
+        title: "Software Engineer - Stewart",
+        location: "Houston, Texes",
         description:
-            // "I got the job as a Associate Software Engineer at Rolustech before my gaduation. I learned ReactJs, Angular, NodeJs, Tailwind, Scss, Material UI, NextJs as technical skills along with major communication and professional skills during 2 whole years tenure",
-            "As an Associate Software Engineer at Rolustech, I secured the position before graduation. Over two years, I mastered ReactJS, Angular, NodeJS, Tailwind, SCSS, Material UI, and NextJS. I also developed strong communication and professional skills.",
-        icon: React.createElement(LuGraduationCap),
-        date: "2021(June) - 2023(June)",
+            "Since August 2023, I've been serving as a Senior Software Engineer (Angular Developer) at Stewart. In this role, I focus on developing new features for the Notarycam App while also mentoring fresh graduates.",
+        icon: React.createElement(FaAngular),
+        date: "2023(August) - present",
     },
     {
         title: "Software Engineer - Cinnova",
         location: "Lahore, Pakistan",
         description:
-            // "I worked as a full-stack Software Engineer for 3 months. I got the chance to learn NestJs, Redux-toolkit and Ionic Framework during that time",
             "As a full-stack Software Engineer for three months, I delved into NestJS, Redux Toolkit, and Ionic Framework, expanding my skill set within a short timeframe",
         icon: React.createElement(FaReact),
         date: "2023(June) - 2023(August)",
     },
     {
-        title: "Software Engineer - Stewart",
-        location: "Houston, Texes",
+        title: "Associate Software Engineer - Rolustech",
+        location: "Lahore, Pakistan",
         description:
-            // "I am working at stewart since August(2023). I appointed as a Senior Software Engineer(Angular Developer) and my role is to build new features of Notarycam App and train fresh graduates.",
-            "Since August 2023, I've been serving as a Senior Software Engineer (Angular Developer) at Stewart. In this role, I focus on developing new features for the Notarycam App while also mentoring fresh graduates.",
-        icon: React.createElement(FaAngular),
-        date: "2023(August) - present",
+            "As an Associate Software Engineer at Rolustech, I secured the position before graduation. Over two years, I mastered ReactJS, Angular, NodeJS, Tailwind, SCSS, Material UI, and NextJS. I also developed strong communication and professional skills.",
+        icon: React.createElement(LuGraduationCap),
+        date: "2021(June) - 2023(June)",
     },
 ] as const;
 

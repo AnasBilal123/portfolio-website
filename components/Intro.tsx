@@ -66,10 +66,10 @@ export default function Intro() {
         building <span className="italic">website & apps</span>. I am
         experienced
         <span className="font-bold"> MERN/MEAN Stack Developer</span>. */}
-        My name is Anas Bilal. I am a{" "}
+        Hi, This is Anas Bilal. I am a{" "}
         <span className="font-bold"> Software Engineer </span> with three years
         of professional experience. My expertise lies in developing web
-        applications and mobile apps. I specialize in the{" "}
+        applications particularly in the{" "}
         <span className="font-bold"> MERN/MEAN stack </span>, bringing a
         comprehensive skill set to every project I undertake.
       </motion.h1>
