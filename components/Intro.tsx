@@ -60,12 +60,6 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        {/* <span className="font-bold">Hello, This is Anas Bilal.</span> I'm a{" "}
-        <span className="font-bold">Software Engineer</span> with{" "}
-        <span className="font-bold">3 years</span> of experience. I enjoy
-        building <span className="italic">website & apps</span>. I am
-        experienced
-        <span className="font-bold"> MERN/MEAN Stack Developer</span>. */}
         Hi, This is Anas Bilal. I am a{" "}
         <span className="font-bold"> Software Engineer </span> with three years
         of professional experience. My expertise lies in developing web
@@ -98,7 +92,7 @@ export default function Intro() {
          outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer
          border border-b-gray-800/10 dark:border-none dark:bg-white/10 dark:text-white/90
         "
-          href="/Resume.pdf"
+          href="/Anas Bilal - Resume.pdf"
           download
         >
           Download Resume{" "}
